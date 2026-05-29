@@ -1,0 +1,82 @@
+body {
+background-color: black;
+}
+table, th, td {
+ border-radius: 0.1vw;
+ border-style: inset;
+ text-align: middle;
+ padding: 10px;
+ border-spacing: 10px;
+ background-color: green;
+}
+th {
+ background-color: blue; 
+}
+table {
+ background-color: yellow;
+}
+city {
+ background-color:blue;
+ border:10px solid white;
+ margin:5px;
+ padding:5px;
+}
+a:link {
+color: light-blue;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: Purple;
+background-color: transparent;
+text-decoration: none;
+}
+a:active {
+color: blue;
+background-color: transparent;
+text-decoration: none;
+}
+@font-face {
+font-family: HandelGothic;
+src: url(HandelGothic_Regular.ttf);
+color: white;
+}
+h1 {
+font-family: HandelGothic;
+color: white;
+}
+h2 {
+font-family: HandelGothic;
+color: white;
+}
+h3 {
+font-family: HandelGothic;
+color: white;
+}
+p {
+font-family: HandelGothic;
+color: white;
+}
+ins {
+color: white;
+}
+del {
+color: white;
+}
+b {
+color: white;
+}
+sup {
+color: white;
+}
+bdo {
+color: white;
+}
+strong {
+color: white;
+}
