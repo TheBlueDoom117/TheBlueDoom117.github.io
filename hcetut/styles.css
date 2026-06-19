@@ -1,8 +1,6 @@
 body {
-background-color: black;
-}
-body {
-  background-image: url('images/bg.png');
+ background-image: url('images/bg.png');
+  background-color: black;
 }
 table, th, td {
  border-radius: 0.1vw;
