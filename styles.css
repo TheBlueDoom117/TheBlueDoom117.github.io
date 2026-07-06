@@ -1,5 +1,7 @@
 body {
-background-color: black;
+  background-image: url("images/bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 #kitty {
   color: white;
